@@ -11,7 +11,7 @@ const ForSupplier = () => {
       <div className="flex flex-col items-center gap-2 justify-center mb-16">
           <span className="text-amber-400 text-xl font-bold flex gap-5 items-center">
             <MdOutlineHorizontalRule className="w-5" />
-            Become a Buyer
+            Become a Supplier
             <MdOutlineHorizontalRule className="w-5" />
           </span>
           <h2 className="text-5xl text-neutral-800 font-semibold w-2/3 text-center leading-tight ">
