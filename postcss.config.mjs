@@ -1,4 +1,4 @@
-/** @type {import('postcss-load-config').Config} */
+/** @type {import('@/insulate/postcss-load-config/src').Config} */
 const config = {
   plugins: {
     tailwindcss: {},
