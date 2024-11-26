@@ -7,6 +7,7 @@ import ForSupplier from "@/components/ForSupplier";
 import Leading from "@/components/Leading";
 import ProductSlider from "@/components/ProductSlider";
 import WaytoBuy from "@/components/WaytoBuy";
+import AskDemo from "@/components/AskDemo";
 
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
     <Brands/>
     <ForBuyer/>
     <ForSupplier/>
+    <AskDemo/>
     </>
   );
 }

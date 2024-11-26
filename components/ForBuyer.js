@@ -44,10 +44,10 @@ const ForBuyer = () => {
                 <p className='text-lg text-neutral-700'> Create projects within which you can launch one or multiple material quotation requests and eventually purchase orders. Easily keep track of purchases per worksite and control costs. </p>
               </div>            
            </div>}
-           {Tabs === 2 &&<div className='flex items-center gap-3 p-5 rounded-xl bg-neutral-100 hover:scale-[1.03] hover:shadow-md transition-[.5s]'>
+           {Tabs === 2 && <div className='flex items-center gap-3 p-5 rounded-xl bg-neutral-100 hover:scale-[1.03] hover:shadow-md transition-[.5s]'>
               <Image
               className='w-[35%] object-cover object-center h-[275px] rounded-lg'
-               src="/Purchase.png"
+               src="/purchase.png"
               height={400}
               width={400}
               alt=''
